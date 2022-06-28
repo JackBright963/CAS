@@ -1,0 +1,9 @@
+102, E20 3BS, 221101, 6.99, 3, purchased, PayPal,28-06-2022
+102, E20 3BS, 125567, 30.0, 4, purchased, Credit Card,13-05-2020
+102, E20 3BS, 221101, 6.99, 3, purchased, Credit Card,13-05-2020
+104, PA3 2SW, 123456, 39.99, 1, purchased, PayPal, 20-02-2020
+104, PA3 2SW, 124566, 4.99, 2, purchased, PayPal, 20-02-2020
+103, BN1 3XP, 124566, 4.99, 2, saved, , 18-02-2020
+104, PA3 2SW, 237788, 8.99, 5, cancelled, , 15-01-2020
+104, PA3 2SW, 112233, 9.50, 1, cancelled, , 15-01-2020
+102, E20 3BS, 234555, 85.50, 2, purchased, Credit Card, 10-01-2020
